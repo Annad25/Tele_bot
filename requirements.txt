@@ -1,0 +1,6 @@
+python-telegram-bot==22.7
+qdrant-client==1.15.1
+sentence-transformers==5.0.0
+openai==1.98.0
+python-dotenv==1.1.0
+langchain-text-splitters==0.3.11
