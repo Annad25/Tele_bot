@@ -2,7 +2,7 @@
 
 A Telegram bot that answers questions using Retrieval-Augmented Generation (RAG). You upload documents, ask questions, and the bot finds relevant parts from your documents and uses an LLM to give you a grounded answer with source citations.
 
-Built as a data science assignment. Bot name: **@RAGHaterBot**
+Bot name: **@RAGHaterBot**
 
 ## What It Does
 
